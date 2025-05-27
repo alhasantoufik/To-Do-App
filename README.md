@@ -1,4 +1,6 @@
-#  To-Do App (PHP + MySQL + jQuery)
+#  To-Do App 
+**(PHP + MySQL + jQuery(javascript)**
+**Data Communication : AJAX (No page Reloads)**
 
 A simple and lightweight task management app built using **PHP**, **MySQL**, and **jQuery**. This app allows users to create, view, update, complete, and delete tasks in real time with a responsive and clean interface.
 
@@ -18,7 +20,7 @@ A simple and lightweight task management app built using **PHP**, **MySQL**, and
 
 ##  Technologies Used
 
-- **Frontend:** HTML, CSS, jQuery
+- **Frontend:** HTML, CSS, jQuery, JavaScript
 - **Backend:** PHP (PDO for database interaction)
 - **Database:** MySQL
 
